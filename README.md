@@ -12,7 +12,7 @@ TLDR - How-to-use
     3) Click the 'Import GPO Backup Folder' button
     4) Select the single folder that contains the GPO backups
   
-  To review conflicts
+  To review conflicts:
     
     1) Click 'review conflicts' button
     2) { Optional } Click 'Export to HTML' button
