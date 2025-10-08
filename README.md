@@ -2,6 +2,7 @@
 This is a python application with GUI designed to allow the user to safely review GPO settings and identify potential conflicts (same settings with different values)
 
 TLDR - How-to-use
+
 **Pre-requisite: you must have Python installed on your PC to run this tool
   
   Steps:
