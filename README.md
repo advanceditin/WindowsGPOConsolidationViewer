@@ -18,4 +18,4 @@ TLDR - How-to-use
   
   That's it...
 
-Now you can browse each GPO quickly without Windows clunkiness and find potential conflicts. For a quick and easy way to review all conflicts, click on the 'Show Conflicts' button
+Now you can browse all GPO settings from a single window and find potential conflicts.
